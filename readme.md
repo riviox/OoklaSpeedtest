@@ -4,4 +4,12 @@
 ```
 gitman -S speedtest-ookla
 ```
+## Usage:
+```
+speedtest
+```
+### help:
+```
+speedtest -h
+```
 ## Docs [here](speedtest.md)
